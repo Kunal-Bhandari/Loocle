@@ -36,6 +36,9 @@ dependencies:
   # Http requests
   http: ^1.4.0
 
+  # Date Formatting
+  intl: ^0.18.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
